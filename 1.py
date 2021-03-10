@@ -51,4 +51,4 @@ for i in result:
         final[1]=result[i]
         final[0]=i
 
-print(f"{final[0]} : {final[1]}")
+print(f"the most number of decompositions:{final[0]} : {final[1]} / decomposition of all numbers {result}")
